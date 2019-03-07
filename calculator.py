@@ -3,11 +3,11 @@ def add(x,y):
     return x+y
 
 def subtraction(x,y):
-    """subtraction of two number"""
+    #subtraction of two number"""
     return x-y
 
 def multiplication(x,y):
-    """multiplication of two number"""
+    #multiplication of two number"""
     return x*y
 
 def division(x,y):
