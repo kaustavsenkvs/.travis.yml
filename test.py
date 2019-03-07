@@ -5,7 +5,10 @@ from calculator import division
 
 def test_add()
   assert add(2,6)==8
-  
+
+def test_wrong_add()
+  assert add(2,6)==7
+
 def test_subtract()
   assert subtraction(2,6)==-4
   
