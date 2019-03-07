@@ -1,8 +1,1 @@
-# .travis.yml
-language : python
-python : 
-    - "3.6"
-install :
-    - pip install -r requirements.txt
-script:
-    - python test.py
+Travis -
